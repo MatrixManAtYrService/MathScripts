@@ -1,3 +1,5 @@
+# https://github.com/MatrixManAtYrService/MathScripts/blob/master/listTopologies.py
+
 # Consider the discrete topology on X
 # X_Discrete = { {} {a} {b} {c} {a,b} {a,c} {b,c} {a,b,c} }
 
